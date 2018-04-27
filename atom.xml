@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description></description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>ACI: @Ciscolive</title>
+        
+          <description>&lt;p&gt;Various sessions that I’ve presented at Ciscolive.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 18 Apr 2018 00:00:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/aci-at-ciscolive</link>
+        <guid isPermaLink="true">http://localhost:4000/aci-at-ciscolive</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ACI: PoC Guide</title>
+        
+          <description>&lt;p&gt;I put together this large powerpoint &lt;a href=&quot;http://localhost:4000/blog-pages/assets/aci-poc-guide/ACI-CPoC.pptx&quot;&gt;deck&lt;/a&gt; for a customer during their proof of concept. It’s a little old now, but hopefully it’s still pretty useful.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 05 Apr 2018 23:10:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/aci-poc-guide</link>
+        <guid isPermaLink="true">http://localhost:4000/aci-poc-guide</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ACI: Tenants, VRFs, BDs, and EPGs</title>
+        
+          <description>&lt;p&gt;In this post we’re going to take a high level look at some of the building blocks that are used when configuring an ACI network. If you’re coming from a traditional networking background you should easily be able to map the ACI constructs with standard NXOS constructs.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/aci-tenants-vrfs-bds-epgs</link>
+        <guid isPermaLink="true">http://localhost:4000/aci-tenants-vrfs-bds-epgs</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ACI: Using Leaf Profiles</title>
+        
+          <description>&lt;p&gt;In my previous &lt;a href=&quot;http://localhost:4000/blog-pages/aci-configuring-network-interfaces.html&quot;&gt;post&lt;/a&gt; we looked at Leaf Profiles which contain a collection of Interfaces Selectors which in turn contain the physical interface(s) e.g. eth1/1.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 26 Mar 2018 22:49:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/aci-using-leaf-profiles</link>
+        <guid isPermaLink="true">http://localhost:4000/aci-using-leaf-profiles</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>ACI: Configuring network interfaces</title>
+        
+          <description>&lt;p&gt;ACI interface configuration is achieved by defining a series of related policies (Managed Objects) which are modeled in a logical “space” before being applied to one or more physical switches.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 23 Mar 2018 09:41:00 +0000</pubDate>
+        <link>
+        http://localhost:4000/aci-configuring-network-interfaces</link>
+        <guid isPermaLink="true">http://localhost:4000/aci-configuring-network-interfaces</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/blog-pages/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog-pages/" rel="alternate" type="text/html" /><updated>2018-04-27T08:55:40+01:00</updated><id>http://localhost:4000/blog-pages/</id><title type="html">spsharman.com</title><entry><title type="html">ACI: @Ciscolive</title><link href="http://localhost:4000/blog-pages/aci-at-ciscolive" rel="alternate" type="text/html" title="ACI: @Ciscolive" /><published>2018-04-18T00:00:00+01:00</published><updated>2018-04-18T00:00:00+01:00</updated><id>http://localhost:4000/blog-pages/aci-at-ciscolive</id><content type="html" xml:base="http://localhost:4000/blog-pages/aci-at-ciscolive">&lt;p&gt;Various sessions that I’ve presented at Ciscolive.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2018-melbourne&quot;&gt;2018 Melbourne&lt;/h2&gt;
+&lt;h3 id=&quot;steve-sharman&quot;&gt;Steve Sharman&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ciscolive.com/global/on-demand-library/?search=%22Steve%20Sharman%22#/session/1506627144298001x6e1&quot;&gt;BRKACI-1002: ACI for Network Engineers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2018-barcelona&quot;&gt;2018 Barcelona&lt;/h2&gt;
+&lt;h3 id=&quot;steve-sharman-1&quot;&gt;Steve Sharman&lt;/h3&gt;
+&lt;h3 id=&quot;russ-whitear&quot;&gt;Russ Whitear&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ciscolive.com/global/on-demand-library/?search=%22Steve%20Sharman%22#/session/BRKACI-2770&quot;&gt;BRKACI-2770: Automating ACI&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2017-melbourne&quot;&gt;2017 Melbourne&lt;/h2&gt;
+&lt;h3 id=&quot;steve-sharman-2&quot;&gt;Steve Sharman&lt;/h3&gt;
+&lt;h3 id=&quot;camillo-rossi&quot;&gt;Camillo Rossi&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ciscolive.com/global/on-demand-library/?search=%22Steve%20Sharman%22#/session/1474970147440001dbvz&quot;&gt;BRKACI-2004: How to build an ACI fabric from scratch&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2017-berlin&quot;&gt;2017 Berlin&lt;/h2&gt;
+&lt;h3 id=&quot;steve-sharman-3&quot;&gt;Steve Sharman&lt;/h3&gt;
+&lt;h3 id=&quot;russ-whitear-1&quot;&gt;Russ Whitear&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ciscolive.com/global/on-demand-library/?search=%22Steve%20Sharman%22#/session/1475124866294001doYN&quot;&gt;BRKACI-2770: ACI and Full Stack Automation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2016-melbourne&quot;&gt;2016 Melbourne&lt;/h2&gt;
+&lt;h3 id=&quot;steve-sharman-4&quot;&gt;Steve Sharman&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ciscolive.com/global/on-demand-library/?search=%22Steve%20Sharman%22#/session/1479743845101001k2Ks&quot;&gt;BRKACI-1002: Introduction to ACI for Network Admins&lt;/a&gt;&lt;/p&gt;</content><author><name>spsharman</name></author><category term="aci" /><summary type="html">Various sessions that I’ve presented at Ciscolive.</summary></entry><entry><title type="html">ACI: PoC Guide</title><link href="http://localhost:4000/blog-pages/aci-poc-guide" rel="alternate" type="text/html" title="ACI: PoC Guide" /><published>2018-04-06T00:10:00+01:00</published><updated>2018-04-06T00:10:00+01:00</updated><id>http://localhost:4000/blog-pages/aci-poc-guide</id><content type="html" xml:base="http://localhost:4000/blog-pages/aci-poc-guide">&lt;p&gt;I put together this large powerpoint &lt;a href=&quot;http://localhost:4000/blog-pages/assets/aci-poc-guide/ACI-CPoC.pptx&quot;&gt;deck&lt;/a&gt; for a customer during their proof of concept. It’s a little old now, but hopefully it’s still pretty useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>spsharman</name></author><category term="aci" /><summary type="html">I put together this large powerpoint deck for a customer during their proof of concept. It’s a little old now, but hopefully it’s still pretty useful.</summary></entry><entry><title type="html">ACI: Tenants, VRFs, BDs, and EPGs</title><link href="http://localhost:4000/blog-pages/aci-tenants-vrfs-bds-epgs" rel="alternate" type="text/html" title="ACI: Tenants, VRFs, BDs, and EPGs" /><published>2018-04-05T01:00:00+01:00</published><updated>2018-04-05T01:00:00+01:00</updated><id>http://localhost:4000/blog-pages/aci-tenants-vrfs-bds-epgs</id><content type="html" xml:base="http://localhost:4000/blog-pages/aci-tenants-vrfs-bds-epgs">&lt;p&gt;In this post we’re going to take a high level look at some of the building blocks that are used when configuring an ACI network. If you’re coming from a traditional networking background you should easily be able to map the ACI constructs with standard NXOS constructs.&lt;/p&gt;
+
+&lt;h2 id=&quot;tenants&quot;&gt;Tenants&lt;/h2&gt;
+&lt;p&gt;Tenants are simply fabric wide configuration “zones” on the network which can be used represent different environments such as “Production” and “Pre-Production”. There are three built in Tenants (infra, mgmt, common), objects that are built in the “common” Tenant can be consumed by other Tenants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture1.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture1.png&quot; data-lightbox=&quot;picture1-large&quot; data-title=&quot;&quot;&gt;
+
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture1.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;p&gt;You can think of an ACI Tenant as being &lt;em&gt;similar&lt;/em&gt; to a VDC on a Nexus 7k, however one major difference is that when configuring an ACI Tenant you don’t reserve blocks of interfaces.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vrfs&quot;&gt;VRFs&lt;/h2&gt;
+&lt;p&gt;VRFs on an ACI fabric are really just the same as a VRF on any other network device. What’s nice with an ACI network is that when you define a VRF it’s automatically available on every leaf switch in the fabric.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture2.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture2.png&quot; data-lightbox=&quot;picture2-large&quot; data-title=&quot;&quot;&gt;
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture2.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;apic1# show vrf
+ Tenant      Vrf         Consumed Contracts    Provided Contracts    Description                              
+ ----------  ----------  --------------------  --------------------  ----------------------------------------
+ Ciscolive   vrf-01      -                     permit_to_Active_Dir                                           
+                                               ectory                                                         
+ common      copy        -                     -                                                              
+ common      default     -                     -                                                              
+ common      vrf-01      -                     -                                                              
+ infra       ave-ctrl    -                     -                                                              
+ infra       overlay-1   -                     -                                                              
+ iomart      vrf-01      -                     -                                                              
+ iomart      vrf-02      -                     -                                                              
+ mgmt        inb         -                     -                                                              
+ mgmt        oob         -                     -                                                              
+ micdoher    vrf-01      -                     -                                                              
+ rwhitear    vrf-01      -                     -                                                              
+ ssharman    vrf-01      -                     -                                                              
+ ssharman    vrf-02      -                     -                                                              
+ ssharman    vrf-03      -                     -                                                              
+ ssharman    vrf-04      -                     -                                                              
+
+apic1#
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;bridge-domains-vrfs&quot;&gt;Bridge Domains (VRFs)&lt;/h2&gt;
+&lt;p&gt;Bridge Domains are layer 2 segments (under the covers they’re switch local VLANs) which are carried over the ACI fabric in VXLAN frames.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture3.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture3.png&quot; data-lightbox=&quot;picture3-large&quot; data-title=&quot;&quot;&gt;
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture3.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;p&gt;Using the &lt;code class=&quot;highlighter-rouge&quot;&gt;fabric XYZ show vlan extended&lt;/code&gt; command on two different switches I can see the Encap (incoming) VLAN and the switch local VLAN.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;apic1# fabric 101 show vlan extended
+----------------------------------------------------------------
+ Node 101 (Leaf-101)
+----------------------------------------------------------------
+
+ VLAN Name                             Encap            Ports
+ ---- -------------------------------- ---------------- ------------------------
+ 1    rwhitear:UCSD:6.5                vlan-2077        Eth1/21
+ 2    ssharman:test:bob                vlan-2075        Eth1/21
+ 9    infra:default                    vxlan-16777209,  Eth1/1, Eth1/11,
+                                       vlan-3967        Eth1/21, Eth1/22, Po1
+ 11   common:10.52.248.192_27          vxlan-16252850   Eth1/21
+ 12   common:outside_vlan-8_host-mgmt  vxlan-15237054   Eth1/11, Eth1/21,
+                                                        Eth1/22, Po1
+ 13   common:outside_vlans:vlan-       vlan-8           Eth1/11, Eth1/21,
+      8_host-mgmt                                       Eth1/22, Po1
+ 15   rwhitear:Candid:candid-          vlan-2076        Eth1/21
+      prod.0.9.1.832
+ 17   ssharman:192.168.10.x_24         vxlan-16580489   Eth1/21, Eth1/22
+ 18   ssharman:esx-infrastructure      vlan-2000        Eth1/21, Eth1/22
+      :Host-mgmt
+
+apic1#
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;apic1# fabric 102 show vlan extended
+----------------------------------------------------------------
+ Node 102 (Leaf-102)
+----------------------------------------------------------------
+
+ VLAN Name                             Encap            Ports
+ ---- -------------------------------- ---------------- ------------------------
+ 9    infra:default                    vxlan-16777209,  Eth1/1, Eth1/11,
+                                       vlan-3967        Eth1/21, Eth1/22, Po1
+ 11   common:10.52.248.192_27          vxlan-16252850   Eth1/21, Eth1/22
+ 12   common:outside_vlan-8_host-mgmt  vxlan-15237054   Eth1/11, Eth1/21,
+                                                        Eth1/22, Po1
+ 13   common:outside_vlans:vlan-       vlan-8           Eth1/11, Eth1/21,
+      8_host-mgmt                                       Eth1/22, Po1
+ 14   ssharman:outside_infra-          vxlan-15433636   Eth1/11, Eth1/21,
+      ssharman-29                                       Eth1/22, Po1
+ 15   ssharman:lab-infrastructure      vlan-29          Eth1/11, Eth1/21,
+      :infra-ssharman-29                                Eth1/22, Po1
+ 16   micdoher:KUBaM:KUBaM             vlan-2066        Eth1/22
+ 18   ssharman:192.168.10.x_24         vxlan-16580489   Eth1/21, Eth1/22
+ 19   ssharman:esx-infrastructure      vlan-2000        Eth1/21, Eth1/22
+      :Host-mgmt
+
+apic1#
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Understanding the relationship between an incoming (Encap) VLAN, and a switch local VLAN is extremely important because when using switch show commands you must specify the switch local VLAN.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Bridge Domains may (or may not) have an associated anycast IP gateway - think VLAN 10, Interface VLAN 10.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;apic1# fabric 101 show ip interface vlan 17
+----------------------------------------------------------------
+ Node 101 (Leaf-101)
+----------------------------------------------------------------
+IP Interface Status for VRF &quot;ssharman:vrf-01&quot;
+vlan17, Interface status: protocol-up/link-up/admin-up, iod: 136, mode: pervasive
+  IP address: 192.168.10.1, IP subnet: 192.168.10.0/24
+  IP broadcast address: 255.255.255.255
+  IP primary address route-preference: 1, tag: 0
+
+
+apic1# fabric 102 show ip interface vlan 18
+----------------------------------------------------------------
+ Node 102 (Leaf-102)
+----------------------------------------------------------------
+IP Interface Status for VRF &quot;ssharman:vrf-01&quot;
+vlan18, Interface status: protocol-up/link-up/admin-up, iod: 134, mode: pervasive
+  IP address: 192.168.10.1, IP subnet: 192.168.10.0/24
+  IP broadcast address: 255.255.255.255
+  IP primary address route-preference: 1, tag: 0
+
+apic1#
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;endpoint-groups-epgs-and-contracts&quot;&gt;Endpoint Groups (EPGs) and Contracts&lt;/h2&gt;
+&lt;p&gt;EPGs are “security bubbles” for network attached devices. Admission to an EPG is based on switch/interface/VLAN or virtual switch, for example VLAN 10 on interface 101/1/1 = EPG web.&lt;/p&gt;
+
+&lt;p&gt;EPGs are mapped to a single Bridge Domain.&lt;/p&gt;
+
+&lt;p&gt;Communication between EPGs is disabled by default, permitting communication requires a Contract (ACL).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture4.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture4.png&quot; data-lightbox=&quot;picture4-large&quot; data-title=&quot;&quot;&gt;
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture4.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;application-profiles&quot;&gt;Application Profiles&lt;/h2&gt;
+&lt;p&gt;An Application Profile is simply a collection of EPGs and Contracts which may or may not represent an Application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture5.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture5.png&quot; data-lightbox=&quot;picture5-large&quot; data-title=&quot;&quot;&gt;
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture5.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;pulling-this-all-together&quot;&gt;Pulling this all together…&lt;/h2&gt;
+&lt;p&gt;When building an ACI network a decision needs to be made where to configure the different objects.&lt;/p&gt;
+
+&lt;p&gt;Many customers build their forwarding functions (VRFs and Bridge Domains) in the “common” tenant and place their Application Profiles and EPGs in a “user” tenant.&lt;/p&gt;
+
+&lt;p&gt;Alternatively customers may place their VRFs, BDs, App Profiles, and EPGs all in a single tenant.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture6.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture6.png&quot; data-lightbox=&quot;picture6-large&quot; data-title=&quot;&quot;&gt;
+&lt;img src=&quot;assets/images/aci-tenants-vrfs-bds-epgs/picture6.png&quot; style=&quot;width:100%; height:100%;&quot; /&gt;
+&lt;/a&gt;
+--&gt;</content><author><name>spsharman</name></author><category term="aci" /><summary type="html">In this post we’re going to take a high level look at some of the building blocks that are used when configuring an ACI network. If you’re coming from a traditional networking background you should easily be able to map the ACI constructs with standard NXOS constructs.</summary></entry><entry><title type="html">ACI: Using Leaf Profiles</title><link href="http://localhost:4000/blog-pages/aci-using-leaf-profiles" rel="alternate" type="text/html" title="ACI: Using Leaf Profiles" /><published>2018-03-26T23:49:00+01:00</published><updated>2018-03-26T23:49:00+01:00</updated><id>http://localhost:4000/blog-pages/aci-using-leaf-profiles</id><content type="html" xml:base="http://localhost:4000/blog-pages/aci-using-leaf-profiles">&lt;p&gt;In my previous &lt;a href=&quot;http://localhost:4000/blog-pages/aci-configuring-network-interfaces.html&quot;&gt;post&lt;/a&gt; we looked at Leaf Profiles which contain a collection of Interfaces Selectors which in turn contain the physical interface(s) e.g. eth1/1.&lt;/p&gt;
+
+&lt;p&gt;There are two ways of using Leaf Profiles (Interface Policies)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Device Centric Leaf Profiles&lt;/li&gt;
+  &lt;li&gt;Switch Centric Leaf Profiles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You won’t find either of these terms in the documentation because I’ve completely made them up :)&lt;/p&gt;
+
+&lt;h1 id=&quot;device-centric-mode&quot;&gt;Device Centric Mode&lt;/h1&gt;
+&lt;p&gt;I use the term Device Centric Leaf Profile to describe a Leaf Profile which has been constructed based on the type of device attaching to the network.&lt;/p&gt;
+
+&lt;p&gt;For example I might build a Leaf Profile which defines the interfaces used when my ESX Hosts connect to the network:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-using-leaf-profiles/picture1.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaf Profile:&lt;/strong&gt; ESX_Hosts&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Selectors&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interfaces&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policy Group&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policies&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Interface_Range&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/1-6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alternatively I might configure in this way where I specify the individual interfaces as opposed to a range of interfaces:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Selector&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interfaces&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policy Group&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policies&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What’s nice with a Device Centric Model is that every physical switch where I attach the ESX_Hosts Profile will have interfaces 1/1-6 configured.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-using-leaf-profiles/picture2.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;switch-centric-mode&quot;&gt;Switch Centric Mode&lt;/h1&gt;
+&lt;p&gt;I use the term Switch Centric Leaf Profile to describe a Leaf Profile which has been constructed based on the target switch.&lt;/p&gt;
+
+&lt;p&gt;For example I might build a Leaf Profile which defines the interfaces for a specific switch:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-using-leaf-profiles/picture3.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaf Profile:&lt;/strong&gt; Leaf_101&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Selector&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interfaces&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policy Group&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Interface Policies&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Interface_Range&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/1-3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ESX_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Interface_Range&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/11-13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Linux_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Interface_Range&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;eth1/21-23&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Windows_Hosts&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cdp_enabled&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What’s nice with this approach is that I have ultimate flexibility, the downside is that I would have to repeat the configuration for each switch (or pair of switches) in the network:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-using-leaf-profiles/picture4.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;There’s a no right or wrong way of using Leaf Profiles, in fact you’ll likely use both methods.&lt;/p&gt;
+
+&lt;p&gt;If you take the first approach you’ll (potentially) have less configuration, however if you take the second approach you’ll (potentially) have more configuration.&lt;/p&gt;
+
+&lt;p&gt;My personal choice is to use a Device Centric approach for compute switches, and a Switch Centric approach for edge racks where lots of flexibility is required.&lt;/p&gt;</content><author><name>spsharman</name></author><category term="aci" /><summary type="html">In my previous post we looked at Leaf Profiles which contain a collection of Interfaces Selectors which in turn contain the physical interface(s) e.g. eth1/1.</summary></entry><entry><title type="html">ACI: Configuring network interfaces</title><link href="http://localhost:4000/blog-pages/aci-configuring-network-interfaces" rel="alternate" type="text/html" title="ACI: Configuring network interfaces" /><published>2018-03-23T09:41:00+00:00</published><updated>2018-03-23T09:41:00+00:00</updated><id>http://localhost:4000/blog-pages/aci-configuring-network-interfaces</id><content type="html" xml:base="http://localhost:4000/blog-pages/aci-configuring-network-interfaces">&lt;p&gt;ACI interface configuration is achieved by defining a series of related policies (Managed Objects) which are modeled in a logical “space” before being applied to one or more physical switches.&lt;/p&gt;
+
+&lt;p&gt;The ability to model once and apply many times is a key feature of an ACI fabric.&lt;/p&gt;
+
+&lt;p&gt;Configuring switch interfaces is really easy to do once you understand the MO model (shown below). In fact if you’re used to configuring a switch you just need to translate something that you already know to the language of ACI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-configuring-network-interfaces/object-model.png&quot; style=&quot;width:100% !important;height:100% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First you need to navigate to Fabric | Access Polices…..&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/aci-configuring-network-interfaces/fabric-access-policies.png&quot; style=&quot;width:40% !important;height:40% !important;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;…..and then working from the bottom up it’s time to do some configuration - it’s always worth tidying up and closing the folders as you go along.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VLAN Pools&lt;/strong&gt; are simply a list of VLANs that can be used on the fabric. The VLANs can either be preconfigured within a pool or they can be added to the pool as required - just like configuring a VLAN range on any other switch.&lt;/p&gt;
+
+&lt;p&gt;There are two types of VLAN pools, either static or dynamic.&lt;/p&gt;
+
+&lt;p&gt;I personally like to create a dynamic pool with static ranges.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Static VLANs are allocated manually by the system administrator to match an incoming VLAN ID on given interfaces.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dynamic VLANs are allocated by APIC to automatically configure an EPG. For example APIC can automatically push a VLANs to a VMware port group or to a firewall for service insertion.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Domains&lt;/strong&gt; are a security function which restricts where VLANs can be consumed, for example the VLANs in Pool X consumed by physical servers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attachable Access Entity Profiles&lt;/strong&gt; otherwise known as (AAEPs) map VLANs from a given VLAN pool to a Leaf Policy Group which is simply an interface template.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interface Policies&lt;/strong&gt; are the settings that you want to apply to an interface, e.g. interface speed, cdp, lldp, VLAN significance etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaf Policy Groups&lt;/strong&gt; are a combination of Interface Policies such as interface speed, cdp, lldp, VLAN significance etc. Leaf Policy Groups either be of type Access, Port-Channel, or Virtual Port-Channel.&lt;/p&gt;
+
+&lt;p&gt;It’s important to understand that Leaf Policy Groups of type Access can be used across many interfaces, whereas Leaf Policy Groups of type Port-Channel and Virtual Port-Channel have to be unique per attached device because under the covers a unique port-channel ID is created.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaf Profiles (Interface Policies)&lt;/strong&gt; are a collection of Interfaces Selectors which in turn contain the physical interface e.g. eth1/1.&lt;/p&gt;
+
+&lt;p&gt;The actual interfaces are configured by mapping a Leaf Policy Group to a given interface ID. Leaf Profiles can be mapped to one or more switches (Leaf Profile | Switch Policies).&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Leaf Profiles (Switch Policies)&lt;/strong&gt; represent one or more physical switches where Leaf Profiles (Interface Policies) are applied, for example:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leafs_1_and_2&lt;/li&gt;
+  &lt;li&gt;Leafs_3_and_4&lt;/li&gt;
+  &lt;li&gt;Leafs_1_to_4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After reading this I’m sure that you think that it’s a lot of work to do, and to be fair if you were configuring a single interface on a single switch there are a lot of steps to do. That said, once you’ve made one template you can re-use it time and again.&lt;/p&gt;</content><author><name>spsharman</name></author><category term="aci" /><summary type="html">ACI interface configuration is achieved by defining a series of related policies (Managed Objects) which are modeled in a logical “space” before being applied to one or more physical switches.</summary></entry></feed>
